@@ -21,14 +21,10 @@ The main goals of this project are:
  ![image](https://github.com/user-attachments/assets/15fe2c80-6c73-4d1a-ba6c-3e687b900401)
 
 2. **Build a model to recommend the best-suited movie for users in each genre.**
-  ![image](https://github.com/user-attachments/assets/c10df076-c288-4b29-ba5a-9938a21b3ec8)
-  ![image](https://github.com/user-attachments/assets/10b7558a-1ce0-4759-a1d4-5ca8b169c8aa)
-  ![image](https://github.com/user-attachments/assets/629025ca-d232-4d53-a5e7-43050af0d74f)
+ ![image](https://github.com/user-attachments/assets/b2c48f02-fa73-4624-99ab-2dff7ed71bd9)
 
 3. **Analyze which genres have received the best and worst ratings based on user reviews.**
    ![image](https://github.com/user-attachments/assets/ea834480-15f5-4e2d-bac7-19fd683d42b8)
-
-
 
 ---
 
